@@ -1,4 +1,4 @@
 # Vishnu
-This is my first project
+This is my first Git repository
 <br>
-My personal project
+Author - Vishnu singh
